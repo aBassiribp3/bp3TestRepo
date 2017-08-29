@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="nurse tasks">ac2200f2db7cc3005530f3c61d9619f0</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>nurse tasks</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_clinic_manag_nurse_tasks</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_clinic_manag.nurse_tasks_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-28 22:13:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>642200f2db7cc3005530f3c61d9619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>nurse tasks</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Clinic Management App" source="x_snc_clinic_manag">c2752766db3cc3005530f3c61d961968</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Clinic Management App">c2752766db3cc3005530f3c61d961968</sys_scope>
+        <sys_update_name>sys_app_module_642200f2db7cc3005530f3c61d9619f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-28 22:13:33</sys_updated_on>
+        <timeline_page/>
+        <title>nurse tasks</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

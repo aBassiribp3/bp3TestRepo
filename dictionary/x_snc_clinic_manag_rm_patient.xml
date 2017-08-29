@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="rooms" max_length="40" name="x_snc_clinic_manag_rm_patient" type="collection">
+        <element display="true" label="room name" max_length="40" name="patient_name" type="string"/>
+        <element choice="1" default="available" label="status" max_length="40" name="status" type="choice">
+            <choice>
+                <element label="Available" sequence="0" value="available"/>
+                <element label="Get Patient" sequence="1" value="get patient"/>
+                <element label="MA/LVN in Room" sequence="2" value="ma/lvn in room"/>
+                <element label="Patient Ready" sequence="3" value="patient ready"/>
+                <element label="Provider In Room" sequence="4" value="provider in room"/>
+                <element label="Orders Placed" sequence="5" value="orders placed"/>
+                <element label="Discharge" sequence="6" value="discharge"/>
+                <element label="Out for Procedure" sequence="7" value="out for procedure"/>
+                <element label="Blocked" sequence="8" value="blocked"/>
+            </choice>
+        </element>
+    </element>
+</database>
