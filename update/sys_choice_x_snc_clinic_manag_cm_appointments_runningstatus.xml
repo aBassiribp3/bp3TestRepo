@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="runningstatus" table="x_snc_clinic_manag_cm_appointments" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>runningstatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Getting Patient</label>
+            <language>en</language>
+            <name>x_snc_clinic_manag_cm_appointments</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-31 20:41:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>13e983e3dbb043005530f3c61d9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-31 20:41:55</sys_updated_on>
+            <value>getting patient</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>runningstatus</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Procedure</label>
+            <language>en</language>
+            <name>x_snc_clinic_manag_cm_appointments</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-31 20:41:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5be983e3dbb043005530f3c61d9619f1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-31 20:42:38</sys_updated_on>
+            <value>procedure</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>runningstatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Patient In Room</label>
+            <language>en</language>
+            <name>x_snc_clinic_manag_cm_appointments</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-31 20:41:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53e983e3dbb043005530f3c61d9619ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-31 20:41:55</sys_updated_on>
+            <value>patient in room</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>runningstatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MA/LVN In Room</label>
+            <language>en</language>
+            <name>x_snc_clinic_manag_cm_appointments</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-31 20:41:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dfe983e3dbb043005530f3c61d9619ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-31 20:41:55</sys_updated_on>
+            <value>ma/lvn in room</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>runningstatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Patient Ready</label>
+            <language>en</language>
+            <name>x_snc_clinic_manag_cm_appointments</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-31 20:41:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5fe983e3dbb043005530f3c61d9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-31 20:41:55</sys_updated_on>
+            <value>patient ready</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>runningstatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Orders Placed</label>
+            <language>en</language>
+            <name>x_snc_clinic_manag_cm_appointments</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-31 20:41:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbe983e3dbb043005530f3c61d9619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-31 20:41:55</sys_updated_on>
+            <value>orders placed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>runningstatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Out for Procedure</label>
+            <language>en</language>
+            <name>x_snc_clinic_manag_cm_appointments</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-31 20:42:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd1a07e3dbb043005530f3c61d961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-31 20:42:38</sys_updated_on>
+            <value>out for procedure</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>runningstatus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Discharging</label>
+            <language>en</language>
+            <name>x_snc_clinic_manag_cm_appointments</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-31 20:41:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7e983e3dbb043005530f3c61d9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-31 20:41:55</sys_updated_on>
+            <value>discharging</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>runningstatus</element>
+            <name>x_snc_clinic_manag_cm_appointments</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-31 20:41:55</sys_created_on>
+            <sys_id>1fe983e3dbb043005530f3c61d9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>runningstatus</sys_name>
+            <sys_package display_value="Clinic Management App" source="x_snc_clinic_manag">c2752766db3cc3005530f3c61d961968</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Clinic Management App">c2752766db3cc3005530f3c61d961968</sys_scope>
+            <sys_update_name>sys_choice_x_snc_clinic_manag_cm_appointments_runningstatus</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-31 20:41:55</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

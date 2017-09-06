@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Appointments" max_length="40" name="x_snc_clinic_manag_cm_appointments" type="collection">
+        <element label="appointment time" max_length="40" name="appointment_time" type="glide_date_time"/>
+        <element label="patientName" max_length="40" name="patientname" type="string"/>
+        <element choice="1" label="runningStatus" max_length="40" name="runningstatus" type="choice">
+            <choice>
+                <element label="Getting Patient" sequence="0" value="getting patient"/>
+                <element label="Patient In Room" sequence="1" value="patient in room"/>
+                <element label="MA/LVN In Room" sequence="2" value="ma/lvn in room"/>
+                <element label="Patient Ready" sequence="3" value="patient ready"/>
+                <element label="Orders Placed" sequence="4" value="orders placed"/>
+                <element label="Out for Procedure" sequence="5" value="out for procedure"/>
+                <element label="Discharging" sequence="6" value="discharging"/>
+            </choice>
+        </element>
+        <element choice="1" display="true" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element label="Scheduled" sequence="0" value="scheduled"/>
+                <element label="Canceled" sequence="1" value="canceled"/>
+                <element label="Checked-In" sequence="2" value="checked-in"/>
+                <element label="In Progress" sequence="3" value="in progress"/>
+                <element label="Complete" sequence="4" value="complete"/>
+            </choice>
+        </element>
+    </element>
+</database>

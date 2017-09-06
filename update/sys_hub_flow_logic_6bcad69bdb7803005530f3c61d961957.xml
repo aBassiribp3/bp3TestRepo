@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">d40a15d7dbf403005530f3c61d9619ad</block>
+        <connected_to/>
+        <display_text/>
+        <flow display_value="Provider Flow">feca969bdb7803005530f3c61d9619b9</flow>
+        <inputs/>
+        <logic_definition display_value="Else If">666e5545c3e232002841b63b12d3ae99</logic_definition>
+        <order>5</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-30 22:37:33</sys_created_on>
+        <sys_id>6bcad69bdb7803005530f3c61d961957</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Clinic Management App" source="x_snc_clinic_manag">c2752766db3cc3005530f3c61d961968</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Clinic Management App">c2752766db3cc3005530f3c61d961968</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_6bcad69bdb7803005530f3c61d961957</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-30 22:37:33</sys_updated_on>
+        <ui_id>177217ae-f008-45b9-b473-38383bf67a11</ui_id>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=6bcad69bdb7803005530f3c61d961957"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>6bcad69bdb7803005530f3c61d961957</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-30 22:37:33</sys_created_on>
+        <sys_id>6fcad69bdb7803005530f3c61d96195a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-30 22:37:33</sys_updated_on>
+        <value>Out for Procedure</value>
+        <variable display_value="">f0af19c1c32632002841b63b12d3aea2</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>6bcad69bdb7803005530f3c61d961957</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-30 22:37:33</sys_created_on>
+        <sys_id>abcad69bdb7803005530f3c61d96195a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-30 22:37:33</sys_updated_on>
+        <value>{{b1be14cf-9449-4067-a74a-3aafde0be7b2.Record.status}}=out for procedure</value>
+        <variable display_value="">f0af19c1c32632002841b63b12d3aea1</variable>
+    </sys_variable_value>
+</record_update>

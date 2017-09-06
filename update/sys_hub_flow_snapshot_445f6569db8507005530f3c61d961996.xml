@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <label_cache>[{"name":"930bda93-6ca8-4110-b7ec-c8a138fd6f90.Record","label":"3➛rooms Record","reference":"x_snc_clinic_manag_rm_patient","reference_display":"rooms","type":"reference","base_type":"reference"},{"name":"033b117c-1278-465a-bad1-71d7cb8f2f53.Record.room","label":"2➛nurse tasks Record➛Room","reference":"","reference_display":"Room","type":"choice","base_type":"choice","parent_table_name":"x_snc_clinic_manag_nurse_tasks","column_name":"room"},{"name":"25bbbc8d-f899-4c05-b218-a2d5091ee286.Table","label":"2➛nurse tasks Table","reference":"x_snc_clinic_manag_nurse_tasks","reference_display":"nurse tasks Table"},{"name":"25bbbc8d-f899-4c05-b218-a2d5091ee286.Record","label":"2➛nurse tasks Record","reference":"x_snc_clinic_manag_nurse_tasks","reference_display":"nurse tasks Record"},{"name":"Updated_1.current","label":"Trigger➛Appointments Record","reference":"x_snc_clinic_manag_cm_appointments","reference_display":"Appointments","type":"reference","base_type":"reference"},{"name":"Created or Updated_1.current.appointment","label":"Trigger➛nurse tasks Record➛Appointment","reference":"x_snc_clinic_manag_cm_appointments","reference_display":"Appointment","type":"reference","base_type":"reference","parent_table_name":"x_snc_clinic_manag_nurse_tasks","column_name":"appointment"},{"name":"b1f48e2a-3029-4360-9ce6-a65c4481b2ad.table_name","label":"3➛Appointments Table","reference":"x_snc_clinic_manag_cm_appointments","reference_display":"Appointments Table"},{"name":"b1f48e2a-3029-4360-9ce6-a65c4481b2ad.record","label":"3➛Appointments Record","reference":"x_snc_clinic_manag_cm_appointments","reference_display":"Appointments Record"},{"name":"Updated_1.current.appointment","label":"Trigger➛nurse tasks Record➛Appointment","reference":"x_snc_clinic_manag_cm_appointments","reference_display":"Appointment","type":"reference","base_type":"reference","parent_table_name":"x_snc_clinic_manag_nurse_tasks","column_name":"appointment"}]</label_cache>
+        <name>Appointment Starts</name>
+        <parent_flow display_value="Appointment Starts">8ecaeee3db7043005530f3c61d961996</parent_flow>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-06 19:13:51</sys_created_on>
+        <sys_id>445f6569db8507005530f3c61d961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Appointment Starts</sys_name>
+        <sys_package display_value="Clinic Management App" source="x_snc_clinic_manag">c2752766db3cc3005530f3c61d961968</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Clinic Management App">c2752766db3cc3005530f3c61d961968</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_445f6569db8507005530f3c61d961996</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-06 19:13:51</sys_updated_on>
+    </sys_hub_flow_snapshot>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <label_cache>[{"name":"Updated_1.current","label":"Trigger➛rooms Record","reference":"x_snc_clinic_manag_rm_patient","reference_display":"rooms","type":"reference","base_type":"reference"},{"name":"9edfe4e3-fcd8-4537-8c5a-8004184e8b54.Record","label":"1➛nurse tasks Record","reference":"x_snc_clinic_manag_nurse_tasks","reference_display":"nurse tasks","type":"reference","base_type":"reference"},{"name":"Updated_1.run_start_time","label":"Trigger➛run_start_time","type":"glide_date_time","base_type":"glide_date_time"}]</label_cache>
+        <name>Procedure</name>
+        <parent_flow/>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-31 13:27:30</sys_created_on>
+        <sys_id>00862167dbfc03005530f3c61d961967</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Procedure</sys_name>
+        <sys_package display_value="Clinic Management App" source="x_snc_clinic_manag">c2752766db3cc3005530f3c61d961968</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Clinic Management App">c2752766db3cc3005530f3c61d961968</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_00862167dbfc03005530f3c61d961967</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-31 13:27:30</sys_updated_on>
+    </sys_hub_flow_snapshot>
+</record_update>

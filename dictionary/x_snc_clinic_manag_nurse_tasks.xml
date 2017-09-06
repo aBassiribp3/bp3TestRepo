@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="nurse tasks" max_length="40" name="x_snc_clinic_manag_nurse_tasks" type="collection"/>
+    <element extends="task" label="nurse tasks" max_length="40" name="x_snc_clinic_manag_nurse_tasks" sizeclass="17" type="collection">
+        <element display="true" label="appointment" max_length="32" name="appointment" type="string"/>
+        <element choice="3" default="101" label="Room" max_length="40" name="room" type="string" use_dependent_field="true">
+            <choice>
+                <element label="101" sequence="0" value="101"/>
+                <element label="102" sequence="1" value="102"/>
+                <element label="103" sequence="2" value="103"/>
+            </choice>
+        </element>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element label="Orders Placed" sequence="0" value="orders placed"/>
+                <element label="Out for Procedure" sequence="1" value="out for procedure"/>
+                <element label="Discharge" sequence="2" value="discharge"/>
+            </choice>
+        </element>
+    </element>
 </database>

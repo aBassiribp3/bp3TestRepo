@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Start Appointment">c4ef1484dbc943005530f3c61d96195f</flow>
+        <order>8.1</order>
+        <parent_ui_id>c1ed0581-b973-4810-b3bc-1ca8ea23d137</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-01 21:35:55</sys_created_on>
+        <sys_id>d8ef1484dbc943005530f3c61d9619ab</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Clinic Management App" source="x_snc_clinic_manag">c2752766db3cc3005530f3c61d961968</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Clinic Management App">c2752766db3cc3005530f3c61d961968</sys_scope>
+        <sys_update_name>sys_hub_action_instance_d8ef1484dbc943005530f3c61d9619ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-01 21:35:55</sys_updated_on>
+        <ui_id>0f3b9f07-8e33-4e4b-bcc3-8580b566bf96</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=d8ef1484dbc943005530f3c61d9619ab"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>d8ef1484dbc943005530f3c61d9619ab</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-01 21:35:55</sys_created_on>
+        <sys_id>54ef1484dbc943005530f3c61d9619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-01 21:35:55</sys_updated_on>
+        <value>x_snc_clinic_manag_nurse_tasks</value>
+        <variable display_value="">e73a6335531003003bf1d9109ec5875c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>d8ef1484dbc943005530f3c61d9619ab</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-01 21:35:55</sys_created_on>
+        <sys_id>90ef1484dbc943005530f3c61d9619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-01 21:35:55</sys_updated_on>
+        <value>1</value>
+        <variable display_value="">ff3a6335531003003bf1d9109ec58777</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=d8ef1484dbc943005530f3c61d9619ab"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>d8ef1484dbc943005530f3c61d9619ab</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-01 21:35:55</sys_created_on>
+        <sys_id>10ef1484dbc943005530f3c61d9619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-01 21:35:55</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value>short_description=Fulfil Order^appointment={{Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>task_table</field>
+        <id>d8ef1484dbc943005530f3c61d9619ab</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-01 21:35:55</sys_created_on>
+        <sys_id>5cef1484dbc943005530f3c61d9619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-01 21:35:55</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>wait</field>
+        <id>d8ef1484dbc943005530f3c61d9619ab</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-01 21:35:55</sys_created_on>
+        <sys_id>98ef1484dbc943005530f3c61d9619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-01 21:35:55</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

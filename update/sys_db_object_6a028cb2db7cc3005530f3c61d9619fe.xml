@@ -6,7 +6,7 @@
         <alter_access>false</alter_access>
         <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
-        <create_access>false</create_access>
+        <create_access>true</create_access>
         <create_access_controls>true</create_access_controls>
         <delete_access>false</delete_access>
         <extension_model/>
@@ -24,14 +24,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-08-28 22:13:33</sys_created_on>
         <sys_id>6a028cb2db7cc3005530f3c61d9619fe</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>nurse tasks</sys_name>
         <sys_package display_value="Clinic Management App" source="x_snc_clinic_manag">c2752766db3cc3005530f3c61d961968</sys_package>
         <sys_policy/>
         <sys_scope display_value="Clinic Management App">c2752766db3cc3005530f3c61d961968</sys_scope>
         <sys_update_name>sys_db_object_6a028cb2db7cc3005530f3c61d9619fe</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-28 22:13:33</sys_updated_on>
+        <sys_updated_on>2017-08-30 18:32:27</sys_updated_on>
         <update_access>false</update_access>
         <user_role display_value="x_snc_clinic_manag.nurse_tasks_user" name="x_snc_clinic_manag.nurse_tasks_user">28228072db7cc3005530f3c61d9619d6</user_role>
         <ws_access>true</ws_access>

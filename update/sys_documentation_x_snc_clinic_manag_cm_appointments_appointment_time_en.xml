@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="appointment_time" label="appointment time" language="en" table="x_snc_clinic_manag_cm_appointments">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>appointment_time</element>
+            <help/>
+            <hint/>
+            <label>appointment time</label>
+            <language>en</language>
+            <name>x_snc_clinic_manag_cm_appointments</name>
+            <plural>appointment times</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-31 18:33:42</sys_created_on>
+            <sys_id>159c6267db7043005530f3c61d961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>appointment time</sys_name>
+            <sys_package display_value="Clinic Management App" source="x_snc_clinic_manag">c2752766db3cc3005530f3c61d961968</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Clinic Management App">c2752766db3cc3005530f3c61d961968</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_clinic_manag_cm_appointments_appointment_time_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-31 18:33:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

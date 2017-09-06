@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">d617cb63dbb043005530f3c61d9619ce</block>
+        <connected_to/>
+        <display_text/>
+        <flow display_value="Start Appointment">1e654568dbc983003da1fd131d9619df</flow>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>support</sys_created_by>
+        <sys_created_on>2017-09-03 13:36:53</sys_created_on>
+        <sys_id>36658568dbc983003da1fd131d961964</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Clinic Management App" source="x_snc_clinic_manag">c2752766db3cc3005530f3c61d961968</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Clinic Management App">c2752766db3cc3005530f3c61d961968</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_36658568dbc983003da1fd131d961964</sys_update_name>
+        <sys_updated_by>support</sys_updated_by>
+        <sys_updated_on>2017-09-03 13:36:53</sys_updated_on>
+        <ui_id>5722d5f4-83df-43d4-a41c-901052fc9382</ui_id>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=36658568dbc983003da1fd131d961964"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>36658568dbc983003da1fd131d961964</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>support</sys_created_by>
+        <sys_created_on>2017-09-03 13:36:53</sys_created_on>
+        <sys_id>3a658568dbc983003da1fd131d961967</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>support</sys_updated_by>
+        <sys_updated_on>2017-09-03 13:36:53</sys_updated_on>
+        <value>No Rooms Available</value>
+        <variable display_value="">f0af19c1c32632002841b63b12d3aea3</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>36658568dbc983003da1fd131d961964</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>support</sys_created_by>
+        <sys_created_on>2017-09-03 13:36:53</sys_created_on>
+        <sys_id>76658568dbc983003da1fd131d961967</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>support</sys_updated_by>
+        <sys_updated_on>2017-09-03 13:36:53</sys_updated_on>
+        <value>{{7dc67f02-dfd9-459e-896f-3b7f8bd5e604.Count}}=0</value>
+        <variable display_value="">9a5f5105c32632002841b63b12d3ae46</variable>
+    </sys_variable_value>
+</record_update>

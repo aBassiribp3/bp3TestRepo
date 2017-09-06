@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <label_cache>[{"name":"Updated_1.current.sys_id","label":"Trigger➛Appointments Record➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"x_snc_clinic_manag_cm_appointments","column_name":"sys_id"},{"name":"Updated_1.current","label":"Trigger➛Appointments Record","reference":"x_snc_clinic_manag_cm_appointments","reference_display":"Appointments","type":"reference","base_type":"reference"},{"name":"7dc67f02-dfd9-459e-896f-3b7f8bd5e604.Count","label":"1➛Count","reference_display":"Count"},{"name":"7dc67f02-dfd9-459e-896f-3b7f8bd5e604.Records","label":"1➛rooms Records","reference":"x_snc_clinic_manag_rm_patient","reference_display":"rooms Records"},{"name":"7dc67f02-dfd9-459e-896f-3b7f8bd5e604.Table","label":"1➛rooms Table","reference":"x_snc_clinic_manag_rm_patient","reference_display":"rooms Table"},{"name":"08a4337e-ecd3-40a8-82b8-0cb32182f04a.Table","label":"3➛Table","reference_display":"Table"},{"name":"08a4337e-ecd3-40a8-82b8-0cb32182f04a.Record","label":"3➛Record","reference":"task","reference_display":"Record"},{"name":"e244633c-2cb9-432c-b1c3-6b29a31dcb92.Table","label":"4➛Table","reference_display":"Table"},{"name":"e244633c-2cb9-432c-b1c3-6b29a31dcb92.Record","label":"4➛Record","reference":"task","reference_display":"Record"},{"name":"4974776c-9c90-4ff6-81fc-db19a5e884d7.Table","label":"5➛Table","reference_display":"Table"},{"name":"4974776c-9c90-4ff6-81fc-db19a5e884d7.Record","label":"5➛Record","reference":"task","reference_display":"Record"},{"name":"830bf440-fdb4-425d-8584-ff585b5a1e39.Table","label":"6➛Table","reference_display":"Table"},{"name":"830bf440-fdb4-425d-8584-ff585b5a1e39.Record","label":"6➛Record","reference":"task","reference_display":"Record"},{"name":"Updated_1.table_name","label":"Trigger➛Appointments Table","reference":"x_snc_clinic_manag_cm_appointments","reference_display":"Appointments","type":"table_name","base_type":"table_name"},{"name":"830bf440-fdb4-425d-8584-ff585b5a1e39.Record.status","label":"6➛nurse tasks Record➛Status","reference":"","reference_display":"Status","type":"choice","base_type":"choice","parent_table_name":"x_snc_clinic_manag_nurse_tasks","column_name":"status"},{"name":"0f3b9f07-8e33-4e4b-bcc3-8580b566bf96.Table","label":"8.1➛Table","reference_display":"Table"},{"name":"0f3b9f07-8e33-4e4b-bcc3-8580b566bf96.Record","label":"8.1➛Record","reference":"task","reference_display":"Record"},{"name":"49bf801c-fce7-4e09-a846-09e6644d53e0.Table","label":"9.1➛Table","reference_display":"Table"},{"name":"49bf801c-fce7-4e09-a846-09e6644d53e0.Record","label":"9.1➛Record","reference":"task","reference_display":"Record"},{"name":"fe228837-1979-418b-ab27-bc02fab93216.Table","label":"10.1➛Table","reference_display":"Table"},{"name":"fe228837-1979-418b-ab27-bc02fab93216.Record","label":"10.1➛Record","reference":"task","reference_display":"Record"},{"name":"583c15bb-d02b-4733-a419-09ab479b62a7.Table","label":"10.2➛Table","reference_display":"Table"},{"name":"583c15bb-d02b-4733-a419-09ab479b62a7.Record","label":"10.2➛Record","reference":"task","reference_display":"Record"}]</label_cache>
+        <name>Clinic Task Workflow</name>
+        <parent_flow display_value="Clinic Task Workflow">5616c363dbb043005530f3c61d96191b</parent_flow>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-06 20:02:13</sys_created_on>
+        <sys_id>146ab921dbc507005530f3c61d9619e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Clinic Task Workflow</sys_name>
+        <sys_package display_value="Clinic Management App" source="x_snc_clinic_manag">c2752766db3cc3005530f3c61d961968</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Clinic Management App">c2752766db3cc3005530f3c61d961968</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_146ab921dbc507005530f3c61d9619e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-06 20:02:13</sys_updated_on>
+    </sys_hub_flow_snapshot>
+</record_update>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Look Up Record">bf0256c10b30030085c083eb37673ac0</action_type>
+        <comment/>
+        <compiled_snapshot display_value="Look Up Record">bf0256c10b30030085c083eb37673ac0</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Appointment Starts">2ace35e1dbc507005530f3c61d961955</flow>
+        <order>3</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-06 20:21:29</sys_created_on>
+        <sys_id>22ce35e1dbc507005530f3c61d961985</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Clinic Management App" source="x_snc_clinic_manag">c2752766db3cc3005530f3c61d961968</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Clinic Management App">c2752766db3cc3005530f3c61d961968</sys_scope>
+        <sys_update_name>sys_hub_action_instance_22ce35e1dbc507005530f3c61d961985</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-06 20:21:29</sys_updated_on>
+        <ui_id>930bda93-6ca8-4110-b7ec-c8a138fd6f90</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=22ce35e1dbc507005530f3c61d961985"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>22ce35e1dbc507005530f3c61d961985</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-06 20:21:29</sys_created_on>
+        <sys_id>26ce35e1dbc507005530f3c61d961988</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-06 20:21:29</sys_updated_on>
+        <value>x_snc_clinic_manag_rm_patient</value>
+        <variable display_value="">b70256c10b30030085c083eb37673ac3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=22ce35e1dbc507005530f3c61d961985"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>22ce35e1dbc507005530f3c61d961985</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-06 20:21:29</sys_created_on>
+        <sys_id>eece35e1dbc507005530f3c61d961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-06 20:21:29</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bf0256c10b30030085c083eb37673ac0</table>
+        <value>patient_name={{033b117c-1278-465a-bad1-71d7cb8f2f53.Record.room}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>22ce35e1dbc507005530f3c61d961985</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-06 20:21:29</sys_created_on>
+        <sys_id>a2ce35e1dbc507005530f3c61d961988</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-06 20:21:29</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bf0256c10b30030085c083eb37673ac0</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

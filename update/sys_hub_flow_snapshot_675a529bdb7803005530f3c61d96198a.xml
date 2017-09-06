@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <label_cache>[{"name":"6f5f4baa-c3b2-46f0-aa27-feb5df2dcdd6.Table","label":"4.6➛nurse tasks Table","reference":"x_snc_clinic_manag_nurse_tasks","reference_display":"nurse tasks Table"},{"name":"6f5f4baa-c3b2-46f0-aa27-feb5df2dcdd6.Record","label":"4.6➛nurse tasks Record","reference":"x_snc_clinic_manag_nurse_tasks","reference_display":"nurse tasks Record"},{"name":"b1be14cf-9449-4067-a74a-3aafde0be7b2.Record.status","label":"3➛nurse tasks Record➛Status","reference":"","reference_display":"Status","type":"choice","base_type":"choice","parent_table_name":"x_snc_clinic_manag_nurse_tasks","column_name":"status"},{"name":"b1be14cf-9449-4067-a74a-3aafde0be7b2.Record","label":"3➛nurse tasks Record","reference":"x_snc_clinic_manag_nurse_tasks","reference_display":"nurse tasks Record"},{"name":"Updated_1.run_start_time","label":"Trigger➛run_start_time","type":"glide_date_time","base_type":"glide_date_time"},{"name":"Updated_1.table_name","label":"Trigger➛rooms Table","reference":"x_snc_clinic_manag_rm_patient","reference_display":"rooms","type":"table_name","base_type":"table_name"},{"name":"e7943c42-7afd-4633-9bb9-f3f6202cdacb.Record.status","label":"2➛rooms Record➛status","reference":"","reference_display":"status","type":"choice","base_type":"choice","parent_table_name":"x_snc_clinic_manag_rm_patient","column_name":"status"},{"name":"Updated_1.current.patient_name","label":"Trigger➛rooms Record➛room name","reference":"","reference_display":"room name","type":"string","base_type":"string","parent_table_name":"x_snc_clinic_manag_rm_patient","column_name":"patient_name"},{"name":"Updated_1.current","label":"Trigger➛rooms Record","reference":"x_snc_clinic_manag_rm_patient","reference_display":"rooms","type":"reference","base_type":"reference"},{"name":"dd8525c0-b6db-4622-b533-97b1fe5d2498.Record","label":"1➛Record","reference":"task","reference_display":"Record"},{"name":"dd8525c0-b6db-4622-b533-97b1fe5d2498.Table","label":"1➛Table","reference_display":"Table"},{"name":"b1be14cf-9449-4067-a74a-3aafde0be7b2.Table","label":"3➛nurse tasks Table","reference":"x_snc_clinic_manag_nurse_tasks","reference_display":"nurse tasks Table"},{"name":"ccf87c64-ed76-4427-bdf2-3ce62a8abcac.record","label":"4.1➛rooms Record","reference":"x_snc_clinic_manag_rm_patient","reference_display":"rooms Record"},{"name":"ccf87c64-ed76-4427-bdf2-3ce62a8abcac.table_name","label":"4.1➛rooms Table","reference":"x_snc_clinic_manag_rm_patient","reference_display":"rooms Table"},{"name":"cfa3e779-661a-446f-b07b-1c77e069d70c.Table","label":"4.2➛Table","reference_display":"Table"},{"name":"cfa3e779-661a-446f-b07b-1c77e069d70c.Record","label":"4.2➛Record","reference":"task","reference_display":"Record"},{"name":"049c684c-924d-42f1-b8fa-573fed8da683.record","label":"4.4➛rooms Record","reference":"x_snc_clinic_manag_rm_patient","reference_display":"rooms Record"},{"name":"049c684c-924d-42f1-b8fa-573fed8da683.table_name","label":"4.4➛rooms Table","reference":"x_snc_clinic_manag_rm_patient","reference_display":"rooms Table"},{"name":"32067460-14ce-40a3-946c-104ea8a9e557.Table","label":"4.5➛Table","reference_display":"Table"},{"name":"32067460-14ce-40a3-946c-104ea8a9e557.Record","label":"4.5➛Record","reference":"task","reference_display":"Record"}]</label_cache>
+        <name>Provider Flow</name>
+        <parent_flow/>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-30 22:35:38</sys_created_on>
+        <sys_id>675a529bdb7803005530f3c61d96198a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Provider Flow</sys_name>
+        <sys_package display_value="Clinic Management App" source="x_snc_clinic_manag">c2752766db3cc3005530f3c61d961968</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Clinic Management App">c2752766db3cc3005530f3c61d961968</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_675a529bdb7803005530f3c61d96198a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-30 22:35:38</sys_updated_on>
+    </sys_hub_flow_snapshot>
+</record_update>
