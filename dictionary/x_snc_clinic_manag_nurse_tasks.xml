@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="nurse tasks" max_length="40" name="x_snc_clinic_manag_nurse_tasks" sizeclass="17" type="collection">
+    <element extends="task" label="nurse tasks" max_length="40" name="x_snc_clinic_manag_nurse_tasks" sizeclass="38" type="collection">
         <element display="true" label="appointment" max_length="32" name="appointment" type="string"/>
         <element choice="3" default="101" label="Room" max_length="40" name="room" type="string" use_dependent_field="true">
             <choice>

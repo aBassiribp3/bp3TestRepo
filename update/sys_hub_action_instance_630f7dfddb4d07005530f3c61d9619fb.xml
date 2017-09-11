@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="AssignRoom">1217713ddb4d07005530f3c61d96198b</flow>
+        <order>3</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-07 15:01:07</sys_created_on>
+        <sys_id>630f7dfddb4d07005530f3c61d9619fb</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Clinic Management App" source="x_snc_clinic_manag">c2752766db3cc3005530f3c61d961968</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Clinic Management App">c2752766db3cc3005530f3c61d961968</sys_scope>
+        <sys_update_name>sys_hub_action_instance_630f7dfddb4d07005530f3c61d9619fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-07 15:01:08</sys_updated_on>
+        <ui_id>90150114-baba-43ef-bff4-f498c5b2046b</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=630f7dfddb4d07005530f3c61d9619fb"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>630f7dfddb4d07005530f3c61d9619fb</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-07 15:01:07</sys_created_on>
+        <sys_id>6f0f7dfddb4d07005530f3c61d9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-07 15:01:07</sys_updated_on>
+        <value>x_snc_clinic_manag_nurse_tasks</value>
+        <variable display_value="">957cdff1531003003bf1d9109ec58753</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>630f7dfddb4d07005530f3c61d9619fb</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-07 15:01:07</sys_created_on>
+        <sys_id>ab0f7dfddb4d07005530f3c61d9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-07 15:01:07</sys_updated_on>
+        <value>1</value>
+        <variable display_value="">e17cdff1531003003bf1d9109ec58770</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>630f7dfddb4d07005530f3c61d9619fb</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-07 15:01:08</sys_created_on>
+        <sys_id>b70fbdfddb4d07005530f3c61d96192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-07 15:01:08</sys_updated_on>
+        <value>x_snc_clinic_manag_nurse_tasks</value>
+        <variable display_value="">e73a6335531003003bf1d9109ec5875c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>630f7dfddb4d07005530f3c61d9619fb</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-07 15:01:08</sys_created_on>
+        <sys_id>f30fbdfddb4d07005530f3c61d96192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-07 15:01:08</sys_updated_on>
+        <value>1</value>
+        <variable display_value="">ff3a6335531003003bf1d9109ec58777</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=630f7dfddb4d07005530f3c61d9619fb"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>630f7dfddb4d07005530f3c61d9619fb</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-07 15:01:07</sys_created_on>
+        <sys_id>2b0f7dfddb4d07005530f3c61d9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-07 15:01:07</sys_updated_on>
+        <table>var__m_sys_hub_action_input_3f9b1ff1531003003bf1d9109ec58775</table>
+        <value>short_description=Assign Room^appointment={{Updated_1.current.patientname}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>630f7dfddb4d07005530f3c61d9619fb</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-07 15:01:08</sys_created_on>
+        <sys_id>730fbdfddb4d07005530f3c61d96192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-07 15:01:08</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value>short_description=Assign Room^appointment={{Updated_1.current.patientname}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>task_table</field>
+        <id>630f7dfddb4d07005530f3c61d9619fb</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-07 15:01:07</sys_created_on>
+        <sys_id>670f7dfddb4d07005530f3c61d9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-07 15:01:07</sys_updated_on>
+        <table>var__m_sys_hub_action_input_3f9b1ff1531003003bf1d9109ec58775</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>task_table</field>
+        <id>630f7dfddb4d07005530f3c61d9619fb</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-07 15:01:08</sys_created_on>
+        <sys_id>bf0fbdfddb4d07005530f3c61d961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-07 15:01:08</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>wait</field>
+        <id>630f7dfddb4d07005530f3c61d9619fb</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-07 15:01:07</sys_created_on>
+        <sys_id>a30f7dfddb4d07005530f3c61d9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-07 15:01:07</sys_updated_on>
+        <table>var__m_sys_hub_action_input_3f9b1ff1531003003bf1d9109ec58775</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>wait</field>
+        <id>630f7dfddb4d07005530f3c61d9619fb</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-07 15:01:08</sys_created_on>
+        <sys_id>fb0fbdfddb4d07005530f3c61d961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-07 15:01:08</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>
